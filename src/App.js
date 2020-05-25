@@ -53,9 +53,12 @@ class App extends Component {
           </span>{" "}
           tasks completed
         </h4>
+        <div className="center">
         {todoItems}
         <br />
         <SubmitForm onSubmitForm={this.addItems} />
+        </div>
+        
       </div>
     );
   }
