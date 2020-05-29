@@ -1,3 +1,3 @@
 <h2>you can view the website live here</h2>
 
-<a href="https://vibrant-jang-43a15d.netlify.app/">click here</a>
+<a href="https://todo-app-vamsi09099.netlify.app/">click here</a>
